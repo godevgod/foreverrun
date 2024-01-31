@@ -13,6 +13,7 @@ This project demonstrates a simple Go program that prints a continuously increme
 - **Graceful Termination**: The program handles SIGINT and SIGTERM signals. When these signals are received, the program exits gracefully, ensuring that all resources are properly released.
 
 ## Usage
+![foreverrun](https://github.com/godevgod/foreverrun/blob/main/foreverrun.gif?raw=true)
 
 1. Clone the repository to your local machine.
 2. Navigate to the directory containing the program.
