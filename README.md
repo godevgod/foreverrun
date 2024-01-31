@@ -26,6 +26,7 @@ If you find this project helpful and would like to support my work, feel free to
 
 # Your support is greatly appreciated!
 
+### Bitcoin:1CbE3SsUcvJWZ2YNaDwUj9AQtT8k4AGmLe
 ```bash
-   Bitcoin: 1CbE3SsUcvJWZ2YNaDwUj9AQtT8k4AGmLe
+   1CbE3SsUcvJWZ2YNaDwUj9AQtT8k4AGmLe
 
