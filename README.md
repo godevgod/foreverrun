@@ -26,8 +26,9 @@ If you find this project helpful and would like to support my work, feel free to
 
 # Your support is greatly appreciated!
 
+![Bitcoin QR Code](https://github.com/godevgod/foreverrun/blob/main/1CbE3SsUcvJWZ2YNaDwUj9AQtT8k4AGmLe.png?raw=true)
 ### Bitcoin:1CbE3SsUcvJWZ2YNaDwUj9AQtT8k4AGmLe
 ```bash
    1CbE3SsUcvJWZ2YNaDwUj9AQtT8k4AGmLe
 
-![Bitcoin QR Code](1CbE3SsUcvJWZ2YNaDwUj9AQtT8k4AGmLe.png)
+
