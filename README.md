@@ -30,4 +30,4 @@ If you find this project helpful and would like to support my work, feel free to
 ```bash
    1CbE3SsUcvJWZ2YNaDwUj9AQtT8k4AGmLe
 
-![Bitcoin QR Code]([./path_to_your_image/qr_code.png](https://github.com/godevgod/foreverrun/blob/main/1CbE3SsUcvJWZ2YNaDwUj9AQtT8k4AGmLe.png?raw=true)https://github.com/godevgod/foreverrun/blob/main/1CbE3SsUcvJWZ2YNaDwUj9AQtT8k4AGmLe.png?raw=true)
+![Bitcoin QR Code](1CbE3SsUcvJWZ2YNaDwUj9AQtT8k4AGmLe.png)
