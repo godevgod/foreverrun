@@ -24,8 +24,8 @@ This project demonstrates a simple Go program that prints a continuously increme
 ### Support
 If you find this project helpful and would like to support my work, feel free to buy me a drink:
 
+# Your support is greatly appreciated!
+
 ```bash
    Bitcoin: 1CbE3SsUcvJWZ2YNaDwUj9AQtT8k4AGmLe
-
-# Your support is greatly appreciated!
 
